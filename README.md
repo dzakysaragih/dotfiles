@@ -19,12 +19,12 @@ NEVER SKIP / IGNORE / AVOID README
 </div>
 
 <pre align="center">
-<a href="#seedling--setup">SETUP</a> • <a href="#four_leaf_clover--key-bindings">KEYBINDS</a> • <a href="https://deviantart.com/owl4ce/art/Sakura-Saber-872360153">GALLERY</a> • <a href="#herb--guides">GUIDES</a>
+<a href="#seedling--setup">SETUP</a> • <a href="#four_leaf_clover--key-bindings">KEYBINDS</a> • <a href="https://deviantart.com/dzsrg/art/Sakura-Saber-872360153">GALLERY</a> • <a href="#herb--guides">GUIDES</a>
 </pre>
 
 <h1>
   <a href="#--------">
-    <img alt="" align="right" src="https://badges.pufler.dev/visits/owl4ce/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
+    <img alt="" align="right" src="https://badges.pufler.dev/visits/dzsrg/dotfiles?style=flat-square&label=&color=000000&logo=github&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
 
@@ -57,7 +57,7 @@ Most were written from scratch. Some details:
 
 <h1>
   <a href="#---------1">
-    <img alt="" align="right" src="https://img.shields.io/github/commit-activity/m/owl4ce/dotfiles/ng?style=flat-square&label=&color=000000&logo=gitbook&logoColor=white&labelColor=000000"/>
+    <img alt="" align="right" src="https://img.shields.io/github/commit-activity/m/dzsrg/dotfiles/ng?style=flat-square&label=&color=000000&logo=gitbook&logoColor=white&labelColor=000000"/>
   </a>
 </h1>
 
@@ -72,7 +72,7 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
 </div>
 
 <p align="right">
-  [<a href="https://gitlab.com/owl4ce/dotfiles">mirror</a>]
+  [<a href="https://gitlab.com/dzsrg/dotfiles">mirror</a>]
 </p>
 
 ## :fallen_leaf: ‎ <samp>CHANGELOGS</samp>
@@ -85,7 +85,7 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/owl4ce/dotfiles/discussions/172">
+      <a href="https://github.com/dzsrg/dotfiles/discussions/172">
         <sup><sub><samp>PURELY CONFIGURED AT 1366x768 WITH 96 DPI</samp></sub></sup>
       </a>
     </td>
@@ -127,8 +127,8 @@ CLICK OR TAP ❲☰❳ TO SHOW TABLE-OF-CONTENTS
 <summary><b>Renovations</b></summary>
 
 - **GTK theme and icon updates and fixes**
-  - [Papirus-Custom](https://github.com/owl4ce/dotfiles/releases/download/ng/Papirus-Custom_JfD.tar.xz) and
-    [Papirus-Dark-Custom](https://github.com/owl4ce/dotfiles/releases/download/ng/Papirus-Dark-Custom_JfD.tar.xz)
+  - [Papirus-Custom](https://github.com/dzsrg/dotfiles/releases/download/ng/Papirus-Custom_JfD.tar.xz) and
+    [Papirus-Dark-Custom](https://github.com/dzsrg/dotfiles/releases/download/ng/Papirus-Dark-Custom_JfD.tar.xz)
     patches
     - 16x16
       - apps
